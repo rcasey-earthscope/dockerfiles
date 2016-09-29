@@ -1,5 +1,6 @@
 FROM debian:6
-##CREDIT "Carl Boettiger and Dirk Eddelbuettel" rocker-maintainers@eddelbuettel.com
+##CREDIT rocker/r-base "Carl Boettiger and Dirk Eddelbuettel" rocker-maintainers@eddelbuettel.com
+##CREDIT shabbychef/crancheck "Steven E. Pav" shabbychef@gmail.com
 MAINTAINER "Robert Casey, IRIS" <rob@iris.washington.edu>
 
 # debian 6 - squeeze now relegated to old archive repos
